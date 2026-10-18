@@ -76,7 +76,7 @@ Color Scheme Used: Deep green, mint/cream, white, with coral accents
 Typography Used: DM sans for general text, Fraunces for the main heading (styles
 Design Goal: It is to provide a tidy interface for adding, finding, and browsing people's contace details.
 
-URL of the Live Render: https://it112-week7-fullstackstarter-lab-10.onrender.com/
+URL of the Live Render: https://it112-week7-fullstackstarter-lab-14.onrender.com/
 
 ---
 
